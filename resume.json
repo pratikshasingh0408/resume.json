@@ -1,0 +1,128 @@
+{
+	"basics": {
+		"name": "Pratiksha singh",
+		"label": "Student",
+		"picture": "",
+		"email": "2021kucp1104@iiitkota.ac.in",
+		"phone": "",
+		"website": "",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+		"location": {
+			"address": "Pavan vihar colony",
+			"postalCode": "282006",
+			"city": "agra",
+			"countryCode": " India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "",
+				"username": "",
+				"url": ""
+			},
+			{
+				"network": "",
+				"username": "",
+				"url": ""
+			},
+			{
+				"network": "",
+				"username": "",
+				"url": ""
+			},
+			{
+				"network": "",
+				"username": "",
+				"url": ""
+			}
+		]
+	},
+	"work": [{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		}
+	],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "",
+		"endDate": "",
+		"gpa": "",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "",
+		"awarder": "",
+		"date": ""
+	}],
+	"publications": [{
+			"title": "",
+			"details": "",
+			"link": ""
+		},
+		{
+			"title": "",
+			"details": "",
+			"link": ""
+		},
+		{
+			"title": "",
+			"details": "",
+			"link": ""
+		}
+	],
+	"skills": [{
+		"name": "Front End Developer",
+		"level": "mediocre",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript",
+
+
+			"Git",
+			"C/C++"
+
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+			"name": "Sketching",
+			"keywords": [
+				""
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Chess",
+				"Badminton"
+			]
+		}
+	]
+}
